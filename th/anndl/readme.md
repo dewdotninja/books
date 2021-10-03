@@ -5,7 +5,7 @@
 ภาควิชาวิศวกรรมเครื่องกล มหาวิทยาลัยเกษตรศาสตร์
 
 ***
-<img src=\"https://drive.google.com/uc?id=1btDYqvB3KU3AZdsdwT7OPHVjAQxT9qBB\" width=500 />
+<img src="https://drive.google.com/uc?id=1btDYqvB3KU3AZdsdwT7OPHVjAQxT9qBB" width=500 />
 
 *หนังสืออยู่ระหว่างการจัดทำ คาดว่าจะแล้วเสร็จปลายปี 2565*
 
