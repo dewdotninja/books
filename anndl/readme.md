@@ -29,8 +29,8 @@
   <li />โครงข่ายประสาทเทียมวกกลับ
 </ol>
 <ul>
-  <li />A. รวมหลักการและวิธีการ
-  <li />B. ซอฟต์แวร์
+  <li /><a href="appendixA.pdf">A. รวมหลักการและวิธีการ</a>
+  <li /><a href="appendixB.pdf">B. ซอฟต์แวร์</a>
   <li /><a href="bibl.pdf">บรรณานุกรม</a>
   <li /><a href="author_dewninja.pdf">ประวัติผู้เขียน</a>
   <li /><a href="index.pdf">ดัชนี</a>
