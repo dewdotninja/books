@@ -1,13 +1,21 @@
 # โครงข่ายประสาทเทียมและการเรียนรู้เชิงลึก
 ## Artificial Neural Networks and Deep Learning
 
-<img src="https://drive.google.com/uc?id=1uP5lwRDgWqOpukETdaynRRDV2_0Odl__" width=550 alt="anndl_cover"/>
+<img src="https://drive.google.com/uc?id=1uP5lwRDgWqOpukETdaynRRDV2_0Odl__" width=600 alt="anndl_cover"/>
+
+<table border="4">
+<tr>
+   <td><img src="https://drive.google.com/uc?id=1u5DkusC2MTewLItRDC-EQjj00VwmRn3J" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=1sgRcy6P2zYh5SKFDIEhvu_9P9YKWEbAl" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=12sKcvQKwQJCL19WD97oBvWlDiIQv4JV3" width=200></td>
+</tr>
+</table>
 
 <hr>
 <br><b>ผู้เขียน :</b> ดร. วโรดม ตู้จินดา
 <br><b>ISBN :</b> 978-616-598-023-4
 <br><b>ขนาด :</b> 314 หน้า (A4)
-<br><b>ราคาปก :</b> 360 บาท (เล่มพิมพ์อยู่ระหว่างดำเนินการ)
+<br><b>ราคาปก :</b> 360 บาท (เล่มพิมพ์ปกสี ภายในขาวดำ มีจำนวนจำกัด)
 <br><b>ราคา e-book :</b> 179 บาท วางจำหน่ายที่ <a href="https://www.mebmarket.com/index.php?action=BookDetails&data=YToyOntzOjc6InVzZXJfaWQiO3M6NzoiMTY5NDY0OSI7czo3OiJib29rX2lkIjtzOjY6IjIyMzc0NyI7fQ">MEB book</a>, <a href="https://www.ookbee.com/shop/book/a5ffc8c8-98a4-41a4-bf21-ad252b0bae60/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81?fbclid=IwAR0kBAdMLhiqHgc2rueh9nGWPUftSXbw6yPZMYbRgLTmeDzl5iBOdZtQ2OQ">Ookbee</a>
 <hr>
 <p />
