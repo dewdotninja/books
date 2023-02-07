@@ -5,11 +5,17 @@
 
 <table border="4">
 <tr>
-   <td><img src="https://drive.google.com/uc?id=1u5DkusC2MTewLItRDC-EQjj00VwmRn3J" width=200></td>
-   <td><img src="https://drive.google.com/uc?id=1sgRcy6P2zYh5SKFDIEhvu_9P9YKWEbAl" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=1byCPZ5nbgnf3ACo3NSNdHkTIyv49DjoX" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=1nH7cTnhId5XGtkmf9pV2NZmWXH06MDnJ" width=200></td>
    <td><img src="https://drive.google.com/uc?id=12sKcvQKwQJCL19WD97oBvWlDiIQv4JV3" width=200></td>
 </tr>
+<tr>
+   <td><img src="https://drive.google.com/uc?id=10TbOA0iq4GrRt4n7Vgl7gGuqqrzAIDFp" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=16uQGCxmq6ueNP8sua2Ppbe5JO6IfOkoa" width=200></td>
+   <td><img src="https://drive.google.com/uc?id=1mQjMnd1h005Bm30hBYL0qORDB5DMqylk" width=200></td>
+</tr>
 </table>
+
 
 <hr>
 <br><b>ผู้เขียน :</b> ดร. วโรดม ตู้จินดา
