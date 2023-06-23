@@ -5,6 +5,9 @@
 <img src="https://drive.google.com/uc?id=1Ew7M7IzNgMTWymiXZtor71Sk_msgoi-c" width=600 alt="anndl_cover"/>
 <hr>
 <br><b>ผู้เขียน :</b> ดร. วโรดม ตู้จินดา
+<p />หนังสืออยู่ระหว่างการเรียบเรียง ซึ่งเมื่อเสร็จแล้ว (คาดว่าประมาณปลายปี 2566) สามารถดาวน์โหลด PDF ฟรีที่นี่ ระหว่างนี้สามารถอ่านบทที่ 1-4 ไปพลางก่อนที่ลิงก์นี้
+
+<a href="https://drive.google.com/file/d/1okM70Is3Zp7mUx-Oa9M9jWkSuQS9h-3W/view?usp=sharing" target=_blank>Preprint</a>
 
 <hr>
 <p />
