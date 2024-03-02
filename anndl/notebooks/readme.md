@@ -1,2 +1,3 @@
-### Jupter notebooks for Artificial Neural Networks and Deep Learning book
+### Jupter notebooks สำหรับหนังสือ "โครงข่ายประสาทเทียมและการเรียนรู้เชิงลึก"
 
+หนังสือเล่มนี้เขียนบน Jupyter notebook เกือบทั้งหมด  
